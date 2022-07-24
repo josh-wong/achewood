@@ -1,9 +1,9 @@
-site_name: <SITE NAME>
-site_url: https://josh-wong.github.io/<SLUG URL>/
+site_name: Achewood
+site_url: https://josh-wong.github.io/achewood/
 
 # Add repository details in the top right-hand corner
-repo_name: josh-wong/<SLUG URL>
-repo_url: https://github.com/josh-wong/<SLUG URL>
+repo_name: josh-wong/achewood
+repo_url: https://github.com/josh-wong/achewood
 # > **Warning**
 # >
 # > This edit page button does not work. I have prioritized the 
@@ -77,10 +77,5 @@ extra:
 
 nav:
   - Overview: 'index.md'
-  - Getting started: '01_getting-started.md'
-#  - [ADD TITLE]: '02_[GERUND]_[TOPIC].md' # Add any additional pages as necessary, but be sure to change the page numbering.
-  - Conclusion: '03_conclusion.md'
-  - References: '04_references.md'
-  - Contributions: '05_contributions.md'
 
 copyright: Copyright &copy; 2022 Josh Wong
