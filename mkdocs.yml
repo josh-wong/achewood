@@ -16,8 +16,8 @@ plugins:
   - search
   - techdocs-core
   # Show the last updated date
-  - git-revision-date
-  # [Broken] Enable videos to be embedded
+  #- git-revision-date
+  # Enable videos to be embedded
   - mkdocs-video:
       css_style:
         width: "100%"
