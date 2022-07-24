@@ -18,7 +18,7 @@ plugins:
   # Show the last updated date
   #- git-revision-date
   # Enable videos to be embedded
-  - mkdocs-video:
+  #- mkdocs-video:
       css_style:
         width: "100%"
         height: "300px"
