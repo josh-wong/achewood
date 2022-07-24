@@ -19,9 +19,9 @@ plugins:
   #- git-revision-date
   # Enable videos to be embedded
   #- mkdocs-video:
-      css_style:
-        width: "100%"
-        height: "300px"
+  #    css_style:
+  #      width: "100%"
+  #      height: "300px"
 
 markdown_extensions:
   # Add styles for buttons
