@@ -77,5 +77,6 @@ extra:
 
 nav:
   - Overview: 'index.md'
-
-copyright: Copyright &copy; 2022 Josh Wong
+  - '': ''
+  - '': ''
+  - 🏠Home: 'https://josh-wong.github.io'
