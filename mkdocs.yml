@@ -75,8 +75,8 @@ extra:
       link: https://twitter.com/josh_in_japan
       name: josh_in_japan on Twitter
 
-nav:
-  - Overview: 'index.md'
-  - '': ''
-  - '': ''
-  - 🏠Home: 'https://josh-wong.github.io'
+#nav:
+#  - Overview: 'index.md'
+#  - '': ''
+#  - '': ''
+#  - 🏠Home: 'https://josh-wong.github.io'
