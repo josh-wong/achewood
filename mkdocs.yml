@@ -1,4 +1,4 @@
-site_name: Achewood
+site_name: Achewood on Material for MkDocs
 site_url: https://josh-wong.github.io/achewood/
 
 # Add repository details in the top right-hand corner
@@ -34,8 +34,8 @@ markdown_extensions:
 theme:
   name: material
   # Add logos to docs page
-  #favicon: https://www.achewood.com/favicon.ico
-  #logo: https://www.achewood.com/favicon.ico
+  favicon: https://www.achewood.com/favicon.ico
+  logo: https://www.achewood.com/favicon.ico
   # Add icon to show repository information and link
   icon:
     repo: fontawesome/brands/github
