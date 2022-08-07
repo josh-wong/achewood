@@ -1,6 +1,6 @@
 # Achewood on Material for MkDocs
 
-![](https://www.achewood.com/rsrc/img/raysplace.gif)
+![](https://www.achewood.com/rsrc/img/raysplace.gif?raw=true)
 
 This repository includes pages that contain [Achewood](https://www.achewood.com/) comic strips. The goal of this project is to provide an enhanced experience for viewing the Achewood comic strip on desktop and mobile by using Material for MkDocs.
 
