@@ -62,7 +62,8 @@ theme:
     - search.highlight
     - search.share
     - navigation.tracking
-    - navigation.top
+    # Remove "Back to top" button since each page is already short.
+    #- navigation.top
     # Auto-expand each nav section
     #- navigation.expand
 
