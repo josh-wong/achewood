@@ -33,8 +33,9 @@ markdown_extensions:
 
 theme:
   name: material
-  # Add logos to docs page
+  # Add favicon to browser tab
   favicon: https://www.achewood.com/favicon.ico
+  # Add logos to docs page
   logo: https://www.achewood.com/favicon.ico
   # Add icon to show repository information and link
   icon:
