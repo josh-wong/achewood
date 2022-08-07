@@ -46,15 +46,15 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode
-      primary: blue
-      accent: blue
+      primary: light green
+      accent: green
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
-      primary: blue
-      accent: blue
+      primary: light green
+      accent: green
   features:
     # Add custom search functions
     - search.suggest
@@ -62,6 +62,8 @@ theme:
     - search.share
     - navigation.tracking
     - navigation.top
+    # Auto-expand each nav section
+    #- navigation.expand
 
 extra:
   social:
