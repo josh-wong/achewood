@@ -1,9 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "achewood"
+  name: achewood
+  title: achewood
+  description: This repository includes pages that contain Achewood comic strips. The goal of this project is to provide an enhanced experience for viewing the Achewood comic strip on desktop or mobile by using Material for MkDocs.
   tags:
     - markdown
+  annotations:
+    github.com/project-slug: josh-wong/achewood
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: docs
   lifecycle: production
