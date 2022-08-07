@@ -1,6 +1,6 @@
 # Achewood on Material for MkDocs
 
-This Achewood site, built on [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), exists to provide an enhanced experience for viewing the [Achewood](https://www.achewood.com/) comic strip.
+This Achewood site, built on [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), exists to provide an enhanced experience for viewing the [Achewood](https://www.achewood.com/) comic strip on desktop or mobile.
 
 Some enhancements include:
 
