@@ -1,6 +1,8 @@
 # Achewood on Material for MkDocs
 
-This repository includes pages that contain [Achewood](https://www.achewood.com/) comic strips. The goal of this project is to provide an enhanced experience for viewing the Achewood comic strip on desktop or mobile by using Material for MkDocs.
+![](https://www.achewood.com/rsrc/img/raysplace.gif)
+
+This repository includes pages that contain [Achewood](https://www.achewood.com/) comic strips. The goal of this project is to provide an enhanced experience for viewing the Achewood comic strip on desktop and mobile by using Material for MkDocs.
 
 Some enhancements include:
 
@@ -9,23 +11,13 @@ Some enhancements include:
 - Light and dark theme
 - Search
 
+## What is Achewood?
+
+Stumble upon here by accident and don't know what Achewood is? Check out [Achewood | Wikipedia](https://en.wikipedia.org/wiki/Achewood)!
+
 ## Have a favorite comic strip?
 
 Please support the artist at the [Official Achewood Art Shop](https://achewood-holiday-pop-up.myshopify.com/)!🙌
-
-## About Achewood
-
-![](https://www.achewood.com/rsrc/img/raysplace.gif)
-
-From the artist:
-
-> “Achewood,” like wormwood, was used by antebellum slaves in the production of “achewater,” a long-since outmoded and outlawed Southern beverage.
-> 
-> Drinkers of achewater experienced hallucinations and euphoria, but the after-effects of the liquor produced a deep and lasting melancholy (hence its name).
-> 
-> Modern science has confirmed that achewood oil, the active ingredient in achewater, is a powerful depressant which causes irreversible neurological damage.
-> 
-> Achewater is generally thought to have inspired many Southern folk songs and fables, such as “The Story of Poor John Ritch,” “Sullivan’s Bear and Dried Bird” and “I’m Following a Little Round Lord.”
 
 ## Contributions
 
