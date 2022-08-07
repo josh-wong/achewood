@@ -34,8 +34,8 @@ markdown_extensions:
 theme:
   name: material
   # Add logos to docs page
-  favicon: assets/images/favicon.png
-  # logo: assets/images/<LOGO ITEM>.png
+  favicon: https://www.achewood.com/favicon.ico
+  logo: https://www.achewood.com/favicon.ico
   # Add icon to show repository information and link
   icon:
     repo: fontawesome/brands/github
