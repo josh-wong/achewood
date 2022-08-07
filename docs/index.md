@@ -1,5 +1,7 @@
 # About
 
+![](https://www.achewood.com/rsrc/img/raysplace.gif?raw=true)
+
 This Achewood site, built on [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), exists to provide an enhanced experience for viewing the [Achewood](https://www.achewood.com/) comic strips on desktop and mobile.
 
 Some enhancements include:
