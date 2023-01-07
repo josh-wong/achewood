@@ -36,4 +36,4 @@ plugins:
   # Enable support for social cards (pretty link previews)
   - social
   - tags
-	- typeset   
+  - typeset   
